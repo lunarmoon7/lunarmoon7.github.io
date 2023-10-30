@@ -12,7 +12,7 @@ module.exports = {
     title: `zentechie의 개발자 블로그`,
     description: `나는 개발자다. 그것도 프론트엔드 개발자.`,
     author: `@zentechie`,
-    siteUrl: `https://zentechie.github.io/`,
+    siteUrl: `https://lunarmoon7.github.io/`,
   },
   plugins: [
     {
