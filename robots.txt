@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://zentechie.github.io/sitemap-index.xml
-Host: https://zentechie.github.io
+Sitemap: https://lunarmoon7.github.io/sitemap-index.xml
+Host: https://lunarmoon7.github.io
