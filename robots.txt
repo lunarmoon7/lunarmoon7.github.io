@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://zentechie.github.io/sitemap-index.xml
+Host: https://zentechie.github.io
