@@ -91,7 +91,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://zentechie.github.io/',
+        siteUrl: 'https://lunarmoon7.github.io/',
         stripQueryString: true,
       },
     },
